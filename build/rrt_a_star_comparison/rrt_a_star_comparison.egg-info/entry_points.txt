@@ -1,0 +1,6 @@
+[console_scripts]
+a_star_node = rrt_a_star_comparison.a_star:main
+ml_rrt_node = rrt_a_star_comparison.ml_rrt:main
+performance_visualizer = rrt_a_star_comparison.performance_visualizer:main
+rrt_node = rrt_a_star_comparison.rrt:main
+

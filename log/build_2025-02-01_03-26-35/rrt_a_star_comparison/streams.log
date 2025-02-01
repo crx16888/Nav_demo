@@ -1,0 +1,29 @@
+[0.521s] Invoking command in '/home/crx/Vscode/ros2_nav_ws/src/rrt_a_star_comparison': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rrt_a_star_comparison build --build-base /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/build install --record /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/install.log --single-version-externally-managed install_data
+[0.662s] running egg_info
+[0.663s] writing ../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info/PKG-INFO
+[0.663s] writing dependency_links to ../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info/dependency_links.txt
+[0.663s] writing entry points to ../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info/entry_points.txt
+[0.663s] writing requirements to ../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info/requires.txt
+[0.663s] writing top-level names to ../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info/top_level.txt
+[0.664s] reading manifest file '../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info/SOURCES.txt'
+[0.664s] writing manifest file '../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info/SOURCES.txt'
+[0.665s] running build
+[0.665s] running build_py
+[0.665s] copying rrt_a_star_comparison/a_star.py -> /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/build/lib/rrt_a_star_comparison
+[0.665s] copying rrt_a_star_comparison/rrt.py -> /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/build/lib/rrt_a_star_comparison
+[0.665s] running install
+[0.665s] running install_lib
+[0.665s] copying /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/build/lib/rrt_a_star_comparison/a_star.py -> /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages/rrt_a_star_comparison
+[0.665s] copying /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/build/lib/rrt_a_star_comparison/rrt.py -> /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages/rrt_a_star_comparison
+[0.666s] byte-compiling /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages/rrt_a_star_comparison/a_star.py to a_star.cpython-310.pyc
+[0.667s] byte-compiling /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages/rrt_a_star_comparison/rrt.py to rrt.cpython-310.pyc
+[0.667s] running install_data
+[0.667s] running install_egg_info
+[0.669s] removing '/home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages/rrt_a_star_comparison-0.0.0-py3.10.egg-info' (and everything under it)
+[0.669s] Copying ../../build/rrt_a_star_comparison/rrt_a_star_comparison.egg-info to /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages/rrt_a_star_comparison-0.0.0-py3.10.egg-info
+[0.669s] running install_scripts
+[0.682s] Installing a_star_node script to /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/rrt_a_star_comparison
+[0.682s] Installing ml_rrt_node script to /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/rrt_a_star_comparison
+[0.682s] Installing rrt_node script to /home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/rrt_a_star_comparison
+[0.682s] writing list of installed files to '/home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/install.log'
+[0.695s] Invoked command in '/home/crx/Vscode/ros2_nav_ws/src/rrt_a_star_comparison' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/crx/Vscode/ros2_nav_ws/install/rrt_a_star_comparison/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/rrt_a_star_comparison build --build-base /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/build install --record /home/crx/Vscode/ros2_nav_ws/build/rrt_a_star_comparison/install.log --single-version-externally-managed install_data
